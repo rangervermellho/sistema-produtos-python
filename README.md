@@ -1,5 +1,7 @@
 #  Sistema de Gerenciamento de Produtos em Python
 
+Projeto desenvolvido com foco em evolução para vaga de Desenvolvedor Python Júnior
+
 ##  Sobre o projeto
 
 Este é um sistema de gerenciamento de produtos desenvolvido em Python com foco em prática de programação, organização de código e aplicação de conceitos de orientação a objetos.
